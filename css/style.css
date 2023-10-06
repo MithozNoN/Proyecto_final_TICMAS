@@ -72,6 +72,15 @@ body {
     background-color: lightblue;
 }
 
+span {
+    font-size: 22px;
+    text-align: justify;
+}
+
+#perfil {
+    text-align: justify;
+}
+
 h4 {
     font-size: 40px;
 }
@@ -147,6 +156,10 @@ section {
     background-color: rgb(61, 255, 47);
     color: white;
 
+}
+
+.carousel-inner {
+    background-color: #6fc3e2;
 }
 
 #btcarrusel{
